@@ -214,6 +214,7 @@
 .container main .contacts .contacts-left {
   display: flex;
   gap: 24px;
+  align-items: center;
   flex-wrap: wrap;
   width: 616px;
   height: 375px;
@@ -304,7 +305,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 34px 532px 34px 312px;
+  padding: 34px 300px 34px 300px;
 }
 .container footer .footer-navbar .footer-text {
   font-family: Circe-regular;
